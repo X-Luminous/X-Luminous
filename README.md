@@ -1,32 +1,27 @@
-### Hi there 👋
-![](https://visitor-badge.glitch.me/badge?page_id=X-Luminous.readme)
-![](http://antzuhl.cn:4000/get/@X-Luminous.readme)
-![info](https://github-readme-stats.vercel.app/api?username=X-Luminous&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
-
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
-
-I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
-
-- 🔭 I’m currently a CS student at Mansoura Unversity.
-- 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
-- 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) [Gmail](mailto:hazemkwita123@gmail.com)
-
-⭐️ From [hazemessam](https://github.com/hazemessam)
-Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
 
 
-<!--
-**X-Luminous/X-Luminous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---!>
+<img align="right" width="250px" src="https://raw.githubusercontent.com/yaronzz/yaronzz/master/res/1.gif" />
+
+𝗜'𝗺 [X-Luminous](https://github.com/yaronzz)！𝗜'𝗺 𝗮 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 𝗺𝘂𝘀𝗶𝗰 𝗮𝗻𝗱 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲.
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=X-Luminous)
+[![Email Badge](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaronhuang@foxmail.com)
+
+### 🍜 About
+
+- 👨‍💻 BLOG:  https://www.cnblogs.com/xp-thebest/
+- 📫 EMAIL: a1205594294@gmail.com
+- 🔭 I’m currently a SE student at Shijiazhuang Tiedao University.
+- 📫 How to reach me: [Gmail](a1205594294@gmail.com)
+
+<img src="https://github-readme-stats.vercel.app/api?username=X-Luminous&show_icons=true&hide_border=true">
+
+<p align="center">
+  <a href="https://open.spotify.com/user/9jkfb4jstu243z6qyvlz7ecu5" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+<p align="center">
+<img src="https://profile-counter.glitch.me/yaronzz/count.svg" alt="Hello world" />
+</p>
