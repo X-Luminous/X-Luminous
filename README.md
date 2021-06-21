@@ -3,6 +3,7 @@
 ![](http://antzuhl.cn:4000/get/@X-Luminous.readme)
 ![info](https://github-readme-stats.vercel.app/api?username=X-Luminous&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
+<!--
 **X-Luminous/X-Luminous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,3 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+--!>
