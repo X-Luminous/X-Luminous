@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
+![](https://visitor-badge.glitch.me/badge?page_id=X-Luminous.readme)
 
 <!--
 **X-Luminous/X-Luminous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
