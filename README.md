@@ -17,7 +17,6 @@
 - 🔭 I’m currently a SE student at Shijiazhuang Tiedao University.
 - 📫 How to reach me: [Gmail](a1205594294@gmail.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=X-Luminous&show_icons=true&hide_border=true">
 
 <p align="center">
   <a href="https://open.spotify.com/user/9jkfb4jstu243z6qyvlz7ecu5" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
