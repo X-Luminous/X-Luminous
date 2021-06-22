@@ -7,7 +7,6 @@
 
 𝗜'𝗺 [X-Luminous](https://github.com/yaronzz)！𝗜'𝗺 𝗮 𝘀𝘁𝘂𝗱𝗲𝗻𝘁 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 𝗺𝘂𝘀𝗶𝗰 𝗮𝗻𝗱 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲.
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=X-Luminous)
 [![Email Badge](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaronhuang@foxmail.com)
 
 ### 🍜 About
